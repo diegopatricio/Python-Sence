@@ -18,7 +18,7 @@
 
 ### Flujo de trabajo diario
 
-- [ ] Crear una nueva rama en el repositorio local
+- [X] Crear una nueva rama en el repositorio local
 - [ ] Actualizar rama remota
 - [ ] Crear un PR
 - [ ] Trabajar en los ejercicios de la clase
